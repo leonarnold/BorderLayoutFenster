@@ -97,6 +97,7 @@ public class BorderLayout extends JFrame {
                 jPSouth.setBackground(new Color(r.nextInt(256), r.nextInt(256), r.nextInt(256)));
             }
         });
+        //
     }
 }
 
